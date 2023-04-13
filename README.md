@@ -6,7 +6,7 @@ website frontend (signin,login,homepage) for airline reservation
 </p>
 
 <p align="center">
-<img src="mainpage.gif"Title" "width="1200" height="550" />
+<img src="mainpage.mov"Title" "width="1200" height="550" />
 </p>
 
 
