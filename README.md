@@ -2,7 +2,7 @@
 website frontend (signin,login,homepage) for airline reservation
 
 <p align="center">
-<img src="assets/WhatsApp Image 2022-08-23 at 4.58.55 PM.jpeg?raw=true "Title"" width="260" height="550" />
+<img src="login.gif"Title" "width="1200" height="550" />
 </p>
 
 <p align="middle">
